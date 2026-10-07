@@ -63,4 +63,15 @@ SELECT
 FROM ecommerce_data
 GROUP BY month
 ORDER BY month;
+-- ============================================
+-- 5. CUSTOMER RATINGS
+-- ============================================
+
+SELECT
+    Customer_Rating,
+    COUNT(*) AS number_of_orders,
+    AVG(Total_Amount) AS avg_order_value
+FROM ecommerce_data
+GROUP BY Customer_Rating
+ORDER BY Customer_Rating;
 

@@ -31,3 +31,16 @@ SQL-based analysis of e-commerce customer behavior and sales performance using M
 - Electronics has a substantially higher average order value than other product categories, driven primarily by higher unit prices.
 - Monthly order volume remains relatively stable, while average order value varies across months.
 - Customer ratings do not appear to have a strong relationship with average order value.
+
+## Sales by Product Category
+
+| Product Category | Revenue |
+|---|---:|
+| Electronics | $10,481,898 |
+| Home & Garden | $4,023,904 |
+| Sports | $3,205,087 |
+| Fashion | $1,577,036 |
+| Toys | $1,014,238 |
+| Beauty | $694,437 |
+| Food | $422,055 |
+| Books | $360,399 |

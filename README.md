@@ -10,6 +10,10 @@ SQL-based analysis of e-commerce customer behavior and sales performance using M
 - SQL
 - GitHub
 
+ ## Project Files
+
+- [SQL Analysis](sql/ecommerce_analysis.sql)
+
 ## Business Questions
 
 - How many customers and orders are in the dataset?
